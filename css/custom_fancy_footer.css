@@ -22,7 +22,7 @@
   background-color: #ffffff;
  }
 
-@media (min-width: 1200px) {
+@media (min-width: 600px) {
 .navbar-inverse {
 background-image:url('../img/cropped-scil-logo.jpeg');
 }
@@ -33,7 +33,7 @@ color: #000;
 }
 
 a {
-  color: #235196;
+  color: #6da050;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -45,7 +45,7 @@ color: #000;
 }
 
 .navbar-toggle {
-background-color: #81F7BE;
+background-color: #6da050;
 }
 
 .navbar-right {
