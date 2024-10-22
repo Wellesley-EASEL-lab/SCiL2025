@@ -895,8 +895,8 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: system-ui,-apple-system,blinkmacsystemfont,"Segoe UI",roboto,"Helvetica Neue",arial,sans-serif,"Segoe UI Emoji"; /*"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-size: 15px;
   line-height: 1.42857143;
   color: #222222;
   background-color: #ffffff;
